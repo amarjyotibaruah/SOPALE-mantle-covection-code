@@ -16,6 +16,19 @@ The project investigates mantle convection, subduction dynamics, and lithosphere
 - Research-oriented numerical analysis
 - Workflow organization for HPC-style simulations
 
+## Repository Structure
+
+```text
+SOPALE-mantle-covection-code/
+│
+├── README.md
+├── docs/
+│   └── project_summary.md
+│
+├── figures/
+│   └── workflow.png
+```
+
 ## Confidentiality Note
 
 This repository provides a portfolio-level summary of a manuscript-related research project. Full model inputs, unpublished parameter files, raw simulation outputs, and manuscript-specific results are not included.
