@@ -32,7 +32,7 @@ SOPALE-mantle-covection-code/
 
 The figure below shows representative thermo-mechanical subduction simulations illustrating mantle flow patterns, slab evolution, and lithosphere-mantle interaction over geological timescales.
 
-![Representative Result](figures/representative_subduction_simulation.png)
+![Representative Result](figures/representative_subduction_simulation1.png)
 
 ## Confidentiality Note
 
