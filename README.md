@@ -95,7 +95,6 @@ SOPALE-mantle-convection-modeling/
 │   └── project_summary.md
 │
 ├── figures/
-│   ├── banner.png
 │   ├── representative_subduction_simulation1.png
 │   ├── wet_mantle_simple_subduction_corner_flow_ssc.png
 │   └── wet_mantle_subduction_with_craton_CF_SSC_EDC.png
