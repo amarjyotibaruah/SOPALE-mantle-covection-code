@@ -44,10 +44,9 @@ Key observations include:
 - Hydrated and weakened mantle rheology promotes SSC development
 - SSC contributes to lithospheric thinning through localized thermal perturbations
 - Dynamic mantle circulation influences long-term lithosphere evolution
+![Representative Result](figures/corner_flow_ssc.png)
 
-<p align="center">
-  <img src="figures/SSC-corner-flow.png" width="800"/>
-</p>
+
 
 ---
 
