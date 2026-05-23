@@ -63,7 +63,7 @@ Key processes shown include:
 - Coupled mantle flow patterns influencing lithosphere stability
 - Complex thermo-mechanical feedbacks within the subcontinental mantle
 
-![Representative Result](figures/corner_flow_ssc.png)
+![Representative Result](figures/figures/wet_mantle_subduction_with_craton_CF_SSC_EDC.png)
 ---
 
 ## Confidentiality Note
