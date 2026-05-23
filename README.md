@@ -46,8 +46,24 @@ Key observations include:
 - Dynamic mantle circulation influences long-term lithosphere evolution
 ![Representative Result](figures/corner_flow_ssc.png)
 
+### SSC, Corner Flow, and Edge-Driven Convection (EDC)
 
+The figure below demonstrates the combined effects of:
 
+- Corner flow
+- Small-scale convection (SSC)
+- Edge-driven convection (EDC)
+
+in models containing a lithospheric thickness contrast between the Cordillera and cratonic lithosphere.
+
+Key processes shown include:
+
+- Interaction between mantle wedge circulation and continental lithosphere structure
+- Development of EDC near the Cordillera–Craton boundary
+- Coupled mantle flow patterns influencing lithosphere stability
+- Complex thermo-mechanical feedbacks within the subcontinental mantle
+
+![Representative Result](figures/corner_flow_ssc.png)
 ---
 
 ## Confidentiality Note
