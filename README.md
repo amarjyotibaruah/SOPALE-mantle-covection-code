@@ -34,6 +34,23 @@ The figure below shows representative thermo-mechanical subduction simulations i
 
 ![Representative Result](figures/representative_subduction_simulation1.png)
 
+### Small-Scale Convection (SSC) and Corner Flow
+
+The figure below illustrates the interaction between subduction-induced corner flow and small-scale convection (SSC) within the mantle wedge and backarc mantle.
+
+Key observations include:
+
+- Corner flow transports hot asthenospheric material beneath the overriding plate
+- Hydrated and weakened mantle rheology promotes SSC development
+- SSC contributes to lithospheric thinning through localized thermal perturbations
+- Dynamic mantle circulation influences long-term lithosphere evolution
+
+<p align="center">
+  <img src="figures/SSC-corner-flow.png" width="800"/>
+</p>
+
+---
+
 ## Confidentiality Note
 
 This repository provides a portfolio-level summary of a manuscript-related research project. Full model inputs, unpublished parameter files, raw simulation outputs, and manuscript-specific results are not included.
