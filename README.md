@@ -1,5 +1,7 @@
 # 🌍 SOPALE Mantle Convection and Subduction Modeling
 
+<img src="figures/your-animation.gif" width="900"/>
+
 # 📖 Overview
 
 This repository presents a professional computational geodynamics portfolio project based on thermo-mechanical numerical modeling using the SOPALE geodynamic framework.
